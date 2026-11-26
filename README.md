@@ -73,7 +73,7 @@ print(f"Received {data!r}")
 
 ### CLIENT
 
-<img width="1385" height="752" alt="image" src="https://github.com/user-attachments/assets/b6c1e862-dd3d-45ba-ad02-114f9c33d4a9" />
+<img width="1385" height="752" alt="image" src="https://github.com/user-attachments/assets/9f44300e-0221-40c9-9004-234ff13c0861" />
 
 ## RESULT:
 The program is executed successfully
